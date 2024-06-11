@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Amala ati abula pelu orisirisi eran
 Ogi ati moin-moin abi akara
 Jollof rice pelu eja
+=======
+The Matrix Trilogy
+Lord of the Rings Trilogy
+Devil's Advocate
+
+>>>>>>> movies
 
